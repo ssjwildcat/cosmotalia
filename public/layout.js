@@ -28,7 +28,7 @@ function headerHTML() {
 
       <header>
 <div class="header-image">
-          <img src="/banner.jpg" alt="a night sky with two moons, a larger rocky one and a smaller planet one, many stars and galaxies" />
+          <img src="/images/banner.jpg" alt="a night sky with two moons, a larger rocky one and a smaller planet one, many stars and galaxies" />
         </div>
         <div class="header-content">
 	        
