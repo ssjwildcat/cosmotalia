@@ -712,3 +712,20 @@ main h6 {
   width: 75%;
   height: 75%;
   object-fit: contain; }
+
+  /*Directory*/
+
+  .twoColumns {
+  display: flex;
+  gap: 28px;
+  flex-direction: row;
+  justify-content: space-between;
+  resize: both;
+  overflow: auto;
+}
+
+.responsive,
+.right {
+  max-width: 50%;
+  flex: 1 1 50%;
+  word-break: break-word;
